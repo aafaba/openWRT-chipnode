@@ -63,6 +63,7 @@ platform_check_image() {
 	ip2202 | \
 	linkits7688 | \
 	linkits7688d | \
+	chipnode | \
 	m2m | \
 	m3 | \
 	m4 | \
